@@ -1084,3 +1084,6 @@ footer {
 }
 /*--//responsive--*/
 
+.imgwids{
+    width: min(30vw,30vh) ;
+}
